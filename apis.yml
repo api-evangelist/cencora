@@ -1,7 +1,11 @@
 aid: cencora
-url: https://raw.githubusercontent.com/api-evangelist/cencora/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/cencora/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.cencora.com
+description: >-
+  We are Cencora. Transforming from AmerisourceBergen after a century of service,
+  we are uniting globally for exceptional customer and patient care.
