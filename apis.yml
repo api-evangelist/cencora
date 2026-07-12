@@ -24,6 +24,8 @@ description: >-
   platforms. No public developer API portal has been identified.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/cencora-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/cencoraglobal
   - type: Website
