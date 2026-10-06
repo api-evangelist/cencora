@@ -34,7 +34,7 @@ tags:
   - Pharma
   - Supply Chain
 created: '2024-01-15'
-modified: '2026-04-23'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 description: >-
   Cencora (formerly AmerisourceBergen, renamed August 2023) is a leading global
@@ -46,6 +46,8 @@ description: >-
   platforms. No public developer API portal has been identified.
 apis: []
 common:
+  - url: https://www.cencora.com/stories
+    type: Blog
   - type: DomainSecurity
     url: security/cencora-domain-security.yml
   - type: LinkedIn
